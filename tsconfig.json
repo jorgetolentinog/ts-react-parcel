@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "jsx": "react",
+    "target": "esnext",
+    "module": "commonjs",
+    "strict": true,
+    "rootDir": "./src"
+  }
+}
